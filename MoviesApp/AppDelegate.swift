@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MoviesApp
 //
-//  Created by Satya Srinivas Volla on 6/13/17.
+//  Created by Karthik on 6/13/17.
 //  Copyright © 2017 Platinum. All rights reserved.
 //
 
